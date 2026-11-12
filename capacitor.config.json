@@ -1,0 +1,6 @@
+{
+  "appId": "com.coachingpro.app",
+  "appName": "কোচিং প্রো",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false }
+}
